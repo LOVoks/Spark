@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 /PySpark/DataSet
 /PySpark/Result
+/PySpark/.vs/PySpark/FileContentIndex
+/PySpark/.vs/PySpark/v17
